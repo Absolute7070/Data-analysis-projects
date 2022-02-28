@@ -29,6 +29,6 @@ Kärkikymmenen paikkakuntaa, jotka tarjoavat eniten kesätyöpaikkoja:
 - Jupyter notebook tai JupyterLab 
 
 # Lisenssit 
-[MIT]{}
+[MIT]{License}
 
 
