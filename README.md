@@ -6,6 +6,9 @@ Projekti koostuu kahdesta ipynb-tiedostosta:
 - webscraping.ipynb: Käytetään web scraping -teknologiaa ja kerätään data talteen. Tuloksena saadaan json-tiedosto, jossa Indeed-sivuston työpaikkojen esite. 
 - kesätyö2022_analyysi.ipynb: Luetaan edellä saatu json-tiedosto ja analysoidaan. 
 
+Web scraping tuloksena saatiin json-tiedosto: 
+- scrapingresult.json
+
 
 # Kuvaus 
 Projektissa analysoidaan tämän kesän kesätyöpaikkoja, erityisesti Python-työpaikkoja. Tuloksena saatiin työpaikkojen taulukko ja vastauksia seuraaviin kysymyksiin: 
